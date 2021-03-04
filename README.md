@@ -1,7 +1,7 @@
 # NovelAudio
 
 ## 项目简介:
-有声小说爬虫，爬取https://m.ting55.com下所有免费的有声小说
+有声小说爬虫，爬取 https://m.ting55.com 下所有免费的有声小说
 
 ## 特别声明：
 
